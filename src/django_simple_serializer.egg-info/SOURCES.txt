@@ -1,0 +1,16 @@
+README.rst
+setup.py
+django_simple_serializer.egg-info/PKG-INFO
+django_simple_serializer.egg-info/SOURCES.txt
+django_simple_serializer.egg-info/dependency_links.txt
+django_simple_serializer.egg-info/requires.txt
+django_simple_serializer.egg-info/top_level.txt
+django_simple_serializer.egg-info/zip-safe
+dss/Mixin.py
+dss/Serializer.py
+dss/TimeFormatFactory.py
+dss/Warning.py
+dss/__init__.py
+test/test_Mixin.py
+test/test_Serializer.py
+test/test_TimeFormatFactory.py
